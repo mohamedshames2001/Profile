@@ -1,0 +1,105 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "fa-solid fa-code-branch",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "fa-solid fa-code-compare",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "fa-solid fa-bolt",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "https://i.pinimg.com/564x/ff/47/02/ff470233cd85fccb056e6064400246e4.jpg"
+        },
+        {
+            "id":2,
+            "image": "https://cdn.vox-cdn.com/thumbor/w9t5YbaSQs7-a4DaVb5q9ewggrI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22863273/vpavic_210916_4760_0240.jpg"
+        },
+        {
+            "id":3,
+            "image": "https://i.pinimg.com/564x/c9/c5/d6/c9c5d63c8fdb031eb7248a02a9a90b77.jpg"
+        },
+        {
+            "id":4,
+            "image": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9833/akrales_220311_5080_0086_squ.jpg"
+        },
+        {
+            "id":5,
+            "image": "https://i5.walmartimages.com/asr/8b874093-f15d-4400-8ca1-e6870279f917.57d9064a53db8948e445ce0e0d9e7392.jpeg"
+        },
+        {
+            "id":6,
+            "image": "https://i0.wp.com/pcd.com.sa/wp-content/uploads/2022/05/BN-PC-PCDCOMBO22.jpg?fit=800%2C800&ssl=1"
+        },
+        {
+            "id":7,
+            "image": "https://cdn.webshopapp.com/shops/250788/files/328603091/hkc-hkc-aio24p1-64gb-all-in-one-pc.jpg"
+        },
+        {
+            "id":8,
+            "image": "https://www.antec.com/images/index-update-img/index-main-block1-1-20211118.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fab fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fab fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fab fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ],
+
+    "profile" : [
+        {
+            "id": 1,
+            "title": "HTML5",
+            "Perc" : "95%"
+        },
+        {
+            "id": 2,
+            "title": "CSS3",
+            "Perc" : "85%"
+        },
+        {
+            "id": 3,
+            "title": "JavaScript",
+            "Perc" : "70%"
+        },
+        {
+            "id": 4,
+            "title": "React",
+            "Perc" : "60%"
+        },
+        {
+            "id": 5,
+            "title": "Bootstrap",
+            "Perc" : "98%"
+        }
+    ]
+}

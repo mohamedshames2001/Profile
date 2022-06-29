@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohamedshames2001/Profile.git/static/css/main.3bf4f19c.css",
+    "main.js": "/mohamedshames2001/Profile.git/static/js/main.982a148c.js",
+    "index.html": "/mohamedshames2001/Profile.git/index.html",
+    "main.3bf4f19c.css.map": "/mohamedshames2001/Profile.git/static/css/main.3bf4f19c.css.map",
+    "main.982a148c.js.map": "/mohamedshames2001/Profile.git/static/js/main.982a148c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf4f19c.css",
+    "static/js/main.982a148c.js"
+  ]
+}
